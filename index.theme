@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ElementaryOS3
+Comment=elementary desktop default theme
+Encoding=UTF-8
+
+Name[en_US]=ElementaryOS3
+
+[X-GNOME-Metatheme]
+GtkTheme=ElementaryOS3
+MetacityTheme=ElementaryOS3
+IconTheme=ElementaryOS3
+CursorTheme=DMZ-Black
+ButtonLayout=close:maximize
